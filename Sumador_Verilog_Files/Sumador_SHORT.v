@@ -3,7 +3,7 @@ module Sumador_SHORT(
 	input [15:0] BBB,
 	input CCIN,
 	output [15:0] RR,
-	input CCOUT
+	output CCOUT
 );
 
 wire C1, C2, C3;
